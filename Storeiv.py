@@ -45,6 +45,8 @@ def main():
     
     #This is an inventory software!!!
 
+    #This is for testing.
+
     store.display_inventory()
 
 if __name__ == "__main__":
