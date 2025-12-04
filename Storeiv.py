@@ -42,6 +42,8 @@ def main():
     store.add_item("Umar", "PC", "Electronics", 2)
     store.add_item("Amjad","Curtain", "Decoration", 3)
     store.add_item("Umar", "Pencils", "Stationary", 5)
+    
+    #This is an inventory software!!!
 
     store.display_inventory()
 
